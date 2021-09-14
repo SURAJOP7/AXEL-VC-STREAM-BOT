@@ -1,1 +1,3 @@
-https://github.com/TeamDeeCode/VcVideoPlayer/blob/996eaba0bfc45b6362b2fb9f160102c0c6a222c2/heroku.yml
+build:
+  docker:
+    worker: Dockerfile
