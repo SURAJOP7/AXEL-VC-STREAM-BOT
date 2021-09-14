@@ -13,7 +13,7 @@
 |🇮🇳 Sammy
 |🇮🇳 Blaze
 ```
-- [SURAJOP7]https://github.com/SURAJOP7/AXEL.git for [pytgcalls](https://github.com/MarshalX/tgcalls)
+- [SURAJOP7](https://github.com/SURAJOP7/AXEL.git) for [pytgcalls](https://github.com/MarshalX/tgcalls)
 
 
 
