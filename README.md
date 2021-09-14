@@ -1,6 +1,6 @@
 # VC Video Player
 
-<a href="https://t.me/https://t.me/THE_HWAELI_xD"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/https://https://t.me/AXEL_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/NUCLEARUSERBOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 [![logo](https://telegra.ph/file/497b78aede41ff0970e71.jpg)
 # How To Host 
