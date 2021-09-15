@@ -25,5 +25,9 @@ The easiest way to deploy this Bot is via Heroku.
 ```
 - [SURAJOP7](https://github.com/SURAJOP7/AXEL.git) 
 
+# Special Thanks To 💞
 
+- [Laky](https://github.com/Laky-64) for [pytgcalls](https://github.com/pytgcalls/pytgcalls)
+
+- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 
