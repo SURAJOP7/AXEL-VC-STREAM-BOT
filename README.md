@@ -16,6 +16,11 @@ The easiest way to deploy this Bot is via Heroku.
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/SURAJOP7/AXEL.git"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
+###  • ɢᴇᴛ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ
+
+<p><a href="https://replit.com/@TurdusMaximus/MiseryStringSession#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-00B2FF?style=for-the-badge&logo=appveyor" width="180""/></a></p>
+
+ 
 ## **••sᴇᴛᴛɪɴɢ ᴜᴘ AXEL VC STEAMER BOT••**
 
 - 1.) ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ.
