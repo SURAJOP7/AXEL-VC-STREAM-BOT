@@ -39,7 +39,7 @@ The easiest way to deploy this Bot is via Heroku.
  
 ### • ᴅᴇᴠᴇʟᴏᴘᴇʀ
 
-<a href="https://t.me/suraj_o_p"><img src="https://img.shields.io/badge/TURDUS MAXIMUS -2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/suraj_o_p"><img src="https://img.shields.io/badge/AXEL -2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 
 
