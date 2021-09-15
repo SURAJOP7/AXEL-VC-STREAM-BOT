@@ -2,7 +2,7 @@
 
 <a href="https://t.me/AXEL_SUPPPORTXD"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/AXEL_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-[![logo] https://telegrateletelegratetelegrateletelegraeltelegrratetelegrateletelegraeltel
+[![logo] (https://telegra.ph/file/59cc37f7183551be1a26e.jpg)
 # How To Host  🔥
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SURAJOP7/AXEL&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME)
 
