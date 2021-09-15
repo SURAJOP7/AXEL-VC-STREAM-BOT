@@ -21,7 +21,7 @@ The easiest way to deploy this Bot is via Heroku.
 <p><a href=https://replit.com/@SURAJOP7/AXEL-VC-STREAM-REPL#main.py><img src="https://img.shields.io/badge/Generate%20On%20Repl-00B2FF?style=for-the-badge&logo=appveyor" width="180""/></a></p>
 
  
-## **••sᴇᴛᴛɪɴɢ ᴜᴘ AXEL VC STEAMER BOT••**
+## **••sᴇᴛᴛɪɴɢ ᴜᴘ Axel Vc Stream••**
 
 - 1.) ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ.
 
